@@ -1,0 +1,78 @@
+{
+	"Browsers": [
+		{
+			"title": "Google Chrome",
+			"url": "https://www.google.com/chrome/"
+		}, {
+			"title": "Maxthon",
+			"url": "http://www.maxthon.com/"
+		}, {
+			"title": "Mozilla Firefox",
+			"url": "http://www.mozilla.org/firefox/new/"
+		}, {
+			"title": "Opera",
+			"url": "http://www.opera.com/"
+		}, {
+			"title": "Safari",
+			"url": "http://www.apple.com/safari/"
+		}
+	],
+	
+	"Documentation": [
+		{
+			"title": "Mozilla Developer Network",
+			"description": "Mozilla's documentation for HTML, CSS, Javascript, SVG and much more",
+			"url": "https://developer.mozilla.org/nl/"
+		}, {
+			"title": "PHP",
+			"description": "Official PHP documentation",
+			"url": "http://php.net/docs.php"
+		}
+	],
+	
+	"Libraries": {
+		"Javascript": [
+			{
+				"title": "jQuery",
+				"description": "A library that simplifies HTML traversing, event handling, animating and Ajax interactions",
+				"url": "http://jquery.com/"
+			}, {
+				"title": "jQuery Mobile",
+				"description": "HTML5-based user interface system for all popular mobile device platforms, built on jQuery and jQuery UI",
+				"url": "http://jquerymobile.com/"
+			}, {
+				"title": "jQuery UI",
+				"description": "A set of user interface interactions, effects, widgets, and themes built on top of jQuery",
+				"url": "http://jqueryui.com/"
+			}
+		]
+	},
+	
+	"Tools": [
+		{
+			"title": "Adobe Browserlab",
+			"description": "A service to test a webpage on multiple browsers and platforms",
+			"url": "https://browserlab.adobe.com/"
+		}, {
+			"title": "JSFiddle",
+			"description": "A service that provides a HTML, CSS and Javascript sandbox for easy sharing",
+			"url": "http://jsfiddle.net/"
+		}
+	],
+	
+	"Validators": [
+		{
+			"title": "W3C Markup Validator",
+			"description": "Official W3C HTML validator",
+			"url": "http://validator.w3.org/"
+		}, {
+			"title": "JSLint",
+			"description": "A strict Javascript validator",
+			"url": "http://www.jslint.com/"
+		}, {
+			"title": "JSONLint",
+			"description": "A JSON validator",
+			"url": "http://jsonlint.com/"
+		}
+	]
+}
