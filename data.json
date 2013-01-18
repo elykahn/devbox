@@ -18,6 +18,14 @@
 		}
 	],
 	
+	"CMS": [
+		{
+			"title": "Wordpress",
+			"description": "A flexible, fool-proof CMS with massive community",
+			"url": "http://wordpress.org/"
+		}
+	]
+	
 	"Documentation": [
 		{
 			"title": "Mozilla Developer Network",
@@ -33,6 +41,10 @@
 	"Libraries": {
 		"Javascript": [
 			{
+				"title": "three.js",
+				"description": "A 3D library with a very low level of complexity",
+				"url": "http://mrdoob.github.com/three.js/"
+			}, {
 				"title": "jQuery",
 				"description": "A library that simplifies HTML traversing, event handling, animating and Ajax interactions",
 				"url": "http://jquery.com/"
