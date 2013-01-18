@@ -48,11 +48,15 @@
 		]
 	},
 	
-	"Tools": [
+	"Services": [
 		{
 			"title": "Adobe Browserlab",
 			"description": "A service to test a webpage on multiple browsers and platforms",
 			"url": "https://browserlab.adobe.com/"
+		}, {
+			"title": "Github",
+			"description": "A great service for managing and syncing collaborated projects.",
+			"url": "https://github.com/"
 		}, {
 			"title": "JSFiddle",
 			"description": "A service that provides a HTML, CSS and Javascript sandbox for easy sharing",
