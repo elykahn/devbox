@@ -1,4 +1,14 @@
 {
+	"API's": {
+		"Javascript": [
+			{
+				"title": "CM.js",
+				"description": "An API to handle cookies",
+				"url": "http://cmjs.timseverien.nl/"
+			}
+		]
+	],
+	
 	"Browsers": [
 		{
 			"title": "Google Chrome",
