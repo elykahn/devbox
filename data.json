@@ -20,8 +20,16 @@
 	
 	"CMS": [
 		{
+			"title": "Drupal",
+			"description": "An open-source modular CMS, capable of running big sites",
+			"url": "http://drupal.org/"
+		}, {
+			"title": "Magento",
+			"description": "An open-source e-commerce CMS",
+			"url": "http://www.magentocommerce.com/"
+		}, {
 			"title": "Wordpress",
-			"description": "A flexible, fool-proof CMS with massive community",
+			"description": "An open-source flexible, fool-proof CMS with massive community",
 			"url": "http://wordpress.org/"
 		}
 	],
