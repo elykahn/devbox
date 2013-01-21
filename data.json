@@ -73,6 +73,10 @@
 			"title": "JSFiddle",
 			"description": "A service that provides a HTML, CSS and Javascript sandbox for easy sharing",
 			"url": "http://jsfiddle.net/"
+		}, {
+			"title": "Lipsum",
+			"description": "Dummy text generator",
+			"url": "http://www.lipsum.com/"
 		}
 	],
 	
